@@ -4,7 +4,7 @@
   "Header.Item3": "Proyectos",
   "Header.Item4": "Contacto",
   "Header.cvBtn": "Curriculum",
-  "Header.cvName": "CV_Jose_Hernandez_Espanol.pdf",
+  "Header.cvName": "CV_dani_English.pdf",
   "Loading": "Cargando...",
 
   "Banner.Pretitle": "Hola! Mi nombre es",
@@ -13,7 +13,7 @@
 
   "AboutMe.Title": "Acerca de mí",
   "AboutMe.Paragraphs": [
-    "En <span class='underline'>+10 años de experiencia</span> he cubierto muchos roles: <span class='underline'>Analista de sistemas</span>, <span class='underline'>backend developer</span>, <span class='underline'>frontend developer</span> y <span class='underline'>líder técnico</span>. Me encanta aportar mis conocimientos para crear cosas nuevas que ayuden a resolver problemas.",
+    "En <span class='underline'>+10 años de experiencia</span> he cubierto muchos roles: <span class='underline'>Analista de sistemas</span>, <span class='underline'>backend developer</span>, <span class='underline'>FullStack developer</span> y <span class='underline'>líder técnico</span>. Me encanta aportar mis conocimientos para crear cosas nuevas que ayuden a resolver problemas.",
     "Mis capacidades también incluyen implementar mejoras en sistemas, optimizar sitios, estandarizar patrones y sugerir y ejecutar ideas que añadan valor al proyecto en el que esté trabajando.",
     "También programo cosas para mi uso personal, bien sea por hobby o por utilidad.",
     "Algunas de las tecnologías en las que me he capacitado y trabajado incluyen (pero no se limitan) a:"
@@ -72,7 +72,7 @@
     },
     {
       "Tab": "TechLatam",
-      "Title": "Frontend developer",
+      "Title": "FullStack developer",
       "Date": "Febrero 2016 - Mayo 2017",
       "Description": [
         "Creación de plantillas de WordPress con ACF, programación funcional en JavaScript / jQuery, estilos en SASS",

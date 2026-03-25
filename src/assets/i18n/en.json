@@ -4,16 +4,16 @@
   "Header.Item3": "Projects",
   "Header.Item4": "Contact",
   "Header.cvBtn": "Resume",
-  "Header.cvName": "CV_Jose_Hernandez_English.pdf",
+  "Header.cvName": "CV_dani_English.pdf",
   "Loading": "Loading...",
 
   "Banner.Pretitle": "Hello! My name is",
-  "Banner.Description": "I have <span class='underline'> +3 years of experience </span> developing enterprise systems, web applications, and technological solutions. My expertise lies in building clean, reusable, and scalable code using<span class='underline'> Angular, C#, SQL Server</span>, and <span class='underline'> React</span>, while also applying strong practices in database design and backend development. I am committed to writing maintainable code, optimizing performance, and delivering solutions that meet both business and user needs.",
+  "Banner.Description": "Highly skilled Software Developer with <span class='underline'> +3 years of experience </span> in designing, developing, and deploying innovative software solutions. My expertise lies in building clean, reusable, and scalable code using<span class='underline'> Angular, SQL Server</span>, <span class='underline'> ReactJS </span> ,<span class='underline'> NextJS</span> , <span class='underline'> PHP</span> , <span class='underline'>  ASP.NET</span> and <span class='underline'> Database management</span>, while also applying strong practices in database design and backend development. I am committed to writing maintainable code, optimizing performance, and delivering solutions that meet both business and user needs.",
   "Banner.ActionBtn": "Say Hi",
 
   "AboutMe.Title": "About Me",
 "AboutMe.Paragraphs": [
-  "With <span class='underline'>3+ years of experience</span>, I have contributed in several roles: <span class='underline'>Frontend Developer</span>, <span class='underline'>Backend Developer</span>, and <span class='underline'>System Developer</span>. I am passionate about building applications that solve real-world problems and improve user experiences.",
+  "With <span class='underline'>3+ years of experience</span>, I have contributed in several roles: <span class='underline'>fullstack Developer</span>, <span class='underline'>Backend Developer</span>, and <span class='underline'>System Developer</span>. I am passionate about building applications that solve real-world problems and improve user experiences.",
   "My capabilities include developing enterprise systems, optimizing performance, standardizing patterns, and suggesting as well as implementing ideas that add value to every project I work on.",
   "I also enjoy creating tools and utilities for my personal use, whether for learning, experimentation, or productivity.",
   "Some of the technologies I have trained and worked with include (but are not limited to):"
@@ -52,7 +52,7 @@
   "Title": "Fullstack Developer (Freelancer)",
   "Date": "September 2021 - Present",
   "Description": [
-    "Delivered fullstack development services for various clients, covering both frontend and backend solutions.",
+    "Delivered fullstack development services for various clients, covering both fullstack and backend solutions.",
     "Developed web platforms using Angular, Laravel, and WordPress, applying clean architecture and best coding practices.",
     "Implemented process automation and optimized workflows through custom scripts and data structures.",
     "Designed and customized responsive templates using SASS, Bootstrap, Angular Material, and other UI frameworks.",
@@ -149,9 +149,56 @@
     }
   ],
 
+  "OtherProjects.Title": "More Projects",
+  "OtherProjects.Projects": [
+    {
+      "Title": "Hands Game",
+      "Description": "Extended rock-paper-scissors game. A personal project developed in Angular where you play randomly against the machine. It features the use of services, interfaces, and components.",
+      "imgs": ["assets/images/hands-game.png"],
+      "ghLink": "https://github.com/andresjosehr/hands-game",
+      "demoLink": "https://projects.andresjosehr.com/hands-game",
+      "Technologies": ["Angular", "CSS GRID", "SASS", "Angular animations"]
+    },
+    {
+      "Title": "Countries Viewer",
+      "Description": "Interface that consumes a countries API where you can view a list of countries, see details of each country, filter by name and region. It also has a dark mode to switch between dark and light themes.",
+      "imgs": ["assets/images/countries-viewer.png"],
+      "ghLink": "https://github.com/andresjosehr/countries-viewer",
+      "demoLink": "https://projects.andresjosehr.com/countries-viewer",
+      "Technologies": ["Angular", "RxJS", "SASS", "API"]
+    },
+    {
+      "Title": "Four Card Feature Section",
+      "Description": "A single page with a minimalist design listing 4 features in 4 cards. Entry animations are used with Angular animations.",
+      "ghLink": "https://github.com/andresjosehr/four-card-feature-section",
+      "demoLink": "https://projects.andresjosehr.com/four-card-feature-section",
+      "Technologies": ["Angular", "SASS", "CSS GRID"]
+    },
+    {
+      "Title": "Social Proof Section",
+      "Description": "Personal project of a page designed from a design made in Figma. Angular was used for development along with SASS and CSS GRID.",
+      "ghLink": "https://github.com/andresjosehr/social-proof-section",
+      "demoLink": "https://projects.andresjosehr.com/social-proof-section",
+      "Technologies": ["Angular", "CSS GRID", "GIT"]
+    },
+    {
+      "Title": "FAQ Accordion Card",
+      "Description": "Frequently asked questions accordion with logic and animations made in Angular.",
+      "ghLink": "https://github.com/andresjosehr/faq-accordion",
+      "demoLink": "https://projects.andresjosehr.com/faq-accordion",
+      "Technologies": ["Angular", "CSS GRID", "Angular animations"]
+    },
+    {
+      "Title": "Profile Card",
+      "Description": "Simple design of a page featuring a profile card with basic information of a person.",
+      "ghLink": "https://github.com/andresjosehr/profile-card-component",
+      "demoLink": "https://projects.andresjosehr.com/profile-card-component",
+      "Technologies": ["Angular", "SASS", "GIT"]
+    }
+  ],
 
   "Contact.Pretitle": "And... Now?",
   "Contact.Title": "Say Hi!",
-  "Contact.Content": "I will be glad to hear from you if you want to discuss new opportunities. Write to me, and I will respond as soon as I see your message.",
+  "Contact.Content": "I would be delighted to hear from you regarding any new opportunities. Please feel free to reach out, and I will respond as soon as possible.",
   "Contact.Btn": "Contact Me"
 }
