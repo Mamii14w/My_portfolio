@@ -135,7 +135,7 @@
     },
     {
       "Title": "EMR",
-      "Description": "E-commerce platform for technology products. Developed with WordPress and implementing a shipping system for products. It has sales reporting through customized programming.",
+      "Description": "An EMR (Electronic Medical Record) system is a digital platform used by healthcare providers to store, manage, and access patients’ medical information in an organized and secure way. Developed with <span class='underline'>PWA</span>,<span class='underline'>React</span>, <span class='underline'>NextJs</span> and <span class='underline'>MSSQL</span> for data manipulation.",
       "imgs": [
         "assets/images/mri/1.png",
         "assets/images/mri/2.png",
