@@ -1,0 +1,204 @@
+{
+  "Header.Item1": "About Me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Projects",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "CV_dani_English.pdf",
+  "Loading": "Loading...",
+
+  "Banner.Pretitle": "Hello! My name is",
+  "Banner.Description": "Highly skilled Software Developer with <span class='underline'> +3 years of experience </span> in designing, developing, and deploying innovative software solutions. My expertise lies in building clean, reusable, and scalable code using<span class='underline'> Angular, SQL Server</span>, <span class='underline'> ReactJS </span> ,<span class='underline'> NextJS</span> , <span class='underline'> PHP</span> , <span class='underline'>  ASP.NET</span> and <span class='underline'> Database management</span>, while also applying strong practices in database design and backend development. I am committed to writing maintainable code, optimizing performance, and delivering solutions that meet both business and user needs.",
+  "Banner.ActionBtn": "Say Hi",
+
+  "AboutMe.Title": "About Me",
+"AboutMe.Paragraphs": [
+  "With <span class='underline'>3+ years of experience</span>, I have contributed in several roles: <span class='underline'>fullstack Developer</span>, <span class='underline'>Backend Developer</span>, and <span class='underline'>System Developer</span>. I am passionate about building applications that solve real-world problems and improve user experiences.",
+  "My capabilities include developing enterprise systems, optimizing performance, standardizing patterns, and suggesting as well as implementing ideas that add value to every project I work on.",
+  "I also enjoy creating tools and utilities for my personal use, whether for learning, experimentation, or productivity.",
+  "Some of the technologies I have trained and worked with include (but are not limited to):"
+],
+
+  "Experience.Title": "Experience",
+  "Experience.Jobs": [
+  {
+    "Tab": "Xoka IT",
+    "Title": "Development Manager / Senior Fullstack Developer",
+    "Date": "June 2022 – Present",
+    "Description": [
+      "Started as a Junior Developer and quickly advanced to Senior Fullstack Developer and Development Manager within the technology department.",
+      "Leading the development team, setting technical direction, and ensuring high-quality software delivery.",
+      "Designing and developing scalable enterprise systems.",
+      "Collaborating with stakeholders to gather requirements, analyze business processes, and deliver effective software solutions.",
+      "Mentoring and guiding junior developers, fostering a culture of clean code and best practices.",
+      "Overseeing system architecture, performance optimization, and implementation of coding standards.",
+      "Managing project planning, sprint reviews, and reporting meetings to ensure on-time and successful delivery."
+    ]
+  },
+   {
+  "Tab": "CNET",
+  "Title": "Digital Payment Officer",
+  "Date": "January 2022 - May 2022",
+  "Description": [
+    "Managed and monitored digital payment systems to ensure smooth and secure transactions.",
+    "Supported the integration of digital payment solutions with enterprise applications.",
+    "Provided technical assistance and troubleshooting for payment-related issues.",
+    "Collaborated with cross-functional teams to improve system efficiency and user experience.",
+    "Prepared reports and documentation on payment system performance and operations."
+  ]
+},
+    {
+  "Tab": "Freelancer",
+  "Title": "Fullstack Developer (Freelancer)",
+  "Date": "September 2021 - Present",
+  "Description": [
+    "Delivered fullstack development services for various clients, covering both fullstack and backend solutions.",
+    "Developed web platforms using Angular, Laravel, and WordPress, applying clean architecture and best coding practices.",
+    "Implemented process automation and optimized workflows through custom scripts and data structures.",
+    "Designed and customized responsive templates using SASS, Bootstrap, Angular Material, and other UI frameworks.",
+    "Collaborated with clients to gather requirements, provide technical guidance, and deliver tailored solutions on time."
+  ]
+},
+    {
+  "Tab": "Land Management",
+  "Title": "Fullstack Developer",
+  "Date": "December 2023 - June 2025",
+  "Description": [
+    "Developed and maintained a spatial land management system integrating GIS technologies with enterprise applications.",
+    "Worked with GeoServer and Leaflet to visualize and manage spatial data, including interactive maps and geospatial queries.",
+    "Built and consumed RESTful APIs using .NET for backend services, ensuring secure and efficient data exchange.",
+    "Designed and implemented frontend modules in Angular with complex reactive forms and map-based interactions.",
+    "Collaborated with domain experts to support land administration workflows and improve decision-making through spatial analysis.",
+    "Optimized system performance, data rendering, and user experience for large-scale geospatial datasets.",
+    "Participated in project planning, reporting, and cross-team collaboration to ensure timely delivery of milestones."
+  ]
+}
+  ],
+
+  "FeatureProjects.Title": "My Projects",
+  "FeatureProjects.Label": "Highlighted Project",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "Land Management Of Addis Ababa",
+      "Description":  "Web application for land and spatial management that supports property registration, plot coordination, and administrative workflows. The system is extensive and complex, built with <span class='underline'>Angular</span>, <span class='underline'>.NET</span>, and <span class='underline'>GeoServer</span>, and integrates a spatial module using <span class='underline'>Leaflet</span> with <span class='underline'>Angular</span> for interactive map visualization and web-based spatial registration. <span class='underline'>PostgreSQL</span> is used for property and plot coordinate storage and is integrated with GeoServer for geospatial visualization, while <span class='underline'>SQL Server</span> with .NET APIs handles business data manipulation, processing, and reporting.",
+      "imgs": [
+        "assets/images/land/home.png",
+        "assets/images/land/task.png",
+        "assets/images/land/validation_form.png",
+        "assets/images/land/app_status.png",
+        "assets/images/land/property_mgmt.png",
+         "assets/images/land/spatial.png"
+      ],
+      "Technologies": ["DNN", "Angular", "Geoserver", "Angular Material", "Primeng","leaflet",".Net","SQL server","postgress"]
+    },
+    {
+      "Title": "Lucy ERP",
+      "Description": "An ERP (Enterprise Resource Planning) system is a software platform that helps organizations manage and integrate their core business processes in one centralized system. It connects different departments, such as finance, human resources, procurement, inventory, sales, and customer management—so they can share data and work more efficiently. made with <span class='underline'>Angular</span> and <span class='underline'>.NET for attendance managent</span>. The <span class='underline'>MSSQL server</span> Database for data storing.",
+      "imgs": [
+        "assets/images/erp/lu_1.png",
+        "assets/images/erp/lu_2.png",
+        "assets/images/erp/lu_3.png",
+        "assets/images/erp/lu_4.png",
+        "assets/images/erp/lu_5.png",
+        "assets/images/erp/lu_6.png",
+        "assets/images/erp/lu_7.png",
+        "assets/images/erp/lu_8.png",
+        "assets/images/erp/lu_9.png"
+      ],
+      "Technologies": [ "Angular", "DNN CMS", "Angular Material", "MSSQL", ".Net"]
+    },
+    {
+      "Title": "Petroleum and Energy Authority",
+      "Description": "A Petroleum Licensing Management System is a specialized software solution designed to manage, regulate, and monitor the issuance of licenses in the petroleum sector across different authority levels. This system supports government agencies or regulatory bodies in handling applications, approvals, renewals, and compliance for businesses involved in petroleum activities such as fuel stations, transportation, storage, and distribution. It has an <span class='underline'>email module</span>, <span class='underline'>real-time notifications</span>, <span class='underline'>Payment method for exam. Developed in <span class='underline'>Angular</span> , <span class='underline'>.NET</span> And <span class='underline'>MSSQL with API</span>.",
+      "imgs": [
+        "assets/images/electric/1.png",
+        "assets/images/electric/2.png",
+        "assets/images/electric/3.png",
+        "assets/images/electric/4.png",
+        "assets/images/electric/1_1.png"
+      ],
+      "Technologies": ["WordPress", "Angular", ".Net", "Angular Material", "Angular animations"]
+    },
+    {
+      "Title": "Ethiopia's Water Resources",
+      "Description": "Developed a system for managing Ethiopia’s water resources to monitor and address potential water emergencies during the summer season. Fully customized design with plugins developed from scratch. Integrated with multiple water monitoring sites to collect measurements and perform predictive analysis based on the sites data using <span class='underline'>Grafana tool</span>. Developed in <span class='underline'>Angular</span> for Frontend, <span class='underline'>MSSQL with .NET API</span> for Backend ,<span class='underline'>Geoserver with leaflet </span> for showing site map.",
+      "imgs": [
+        "assets/images/water/1.png",
+        "assets/images/water/2.png",
+        "assets/images/water/3.png",
+        "assets/images/water/4.png",
+        "assets/images/water/5.png",
+        "assets/images/water/6.png",
+         "assets/images/water/7.png"
+      ],
+      "Technologies": ["grafana", "leaflet", "Geoserver", "MSSQL","Angular"]
+    },
+    {
+      "Title": "EMR",
+      "Description": "An EMR (Electronic Medical Record) system is a digital platform used by healthcare providers to store, manage, and access patients’ medical information in an organized and secure way. Developed with <span class='underline'>PWA</span>,<span class='underline'>React</span>, <span class='underline'>NextJs</span> and <span class='underline'>MSSQL</span> for data manipulation.",
+      "imgs": [
+        "assets/images/mri/1.png",
+        "assets/images/mri/2.png",
+        "assets/images/mri/3.png",
+        "assets/images/mri/4.png",
+        "assets/images/mri/5.png",
+        "assets/images/mri/6.png",
+        "assets/images/mri/7.png"
+      ],
+      "Technologies": ["PWA", "React", "NextJS",  "MSSQL"]
+    }
+  ],
+
+  "OtherProjects.Title": "More Projects",
+  "OtherProjects.Projects": [
+    {
+      "Title": "Hands Game",
+      "Description": "Extended rock-paper-scissors game. A personal project developed in Angular where you play randomly against the machine. It features the use of services, interfaces, and components.",
+      "imgs": ["assets/images/hands-game.png"],
+      "ghLink": "https://github.com/andresjosehr/hands-game",
+      "demoLink": "https://projects.andresjosehr.com/hands-game",
+      "Technologies": ["Angular", "CSS GRID", "SASS", "Angular animations"]
+    },
+    {
+      "Title": "Countries Viewer",
+      "Description": "Interface that consumes a countries API where you can view a list of countries, see details of each country, filter by name and region. It also has a dark mode to switch between dark and light themes.",
+      "imgs": ["assets/images/countries-viewer.png"],
+      "ghLink": "https://github.com/andresjosehr/countries-viewer",
+      "demoLink": "https://projects.andresjosehr.com/countries-viewer",
+      "Technologies": ["Angular", "RxJS", "SASS", "API"]
+    },
+    {
+      "Title": "Four Card Feature Section",
+      "Description": "A single page with a minimalist design listing 4 features in 4 cards. Entry animations are used with Angular animations.",
+      "ghLink": "https://github.com/andresjosehr/four-card-feature-section",
+      "demoLink": "https://projects.andresjosehr.com/four-card-feature-section",
+      "Technologies": ["Angular", "SASS", "CSS GRID"]
+    },
+    {
+      "Title": "Social Proof Section",
+      "Description": "Personal project of a page designed from a design made in Figma. Angular was used for development along with SASS and CSS GRID.",
+      "ghLink": "https://github.com/andresjosehr/social-proof-section",
+      "demoLink": "https://projects.andresjosehr.com/social-proof-section",
+      "Technologies": ["Angular", "CSS GRID", "GIT"]
+    },
+    {
+      "Title": "FAQ Accordion Card",
+      "Description": "Frequently asked questions accordion with logic and animations made in Angular.",
+      "ghLink": "https://github.com/andresjosehr/faq-accordion",
+      "demoLink": "https://projects.andresjosehr.com/faq-accordion",
+      "Technologies": ["Angular", "CSS GRID", "Angular animations"]
+    },
+    {
+      "Title": "Profile Card",
+      "Description": "Simple design of a page featuring a profile card with basic information of a person.",
+      "ghLink": "https://github.com/andresjosehr/profile-card-component",
+      "demoLink": "https://projects.andresjosehr.com/profile-card-component",
+      "Technologies": ["Angular", "SASS", "GIT"]
+    }
+  ],
+
+  "Contact.Pretitle": "And... Now?",
+  "Contact.Title": "Say Hi!",
+  "Contact.Content": "I would be delighted to hear from you regarding any new opportunities. Please feel free to reach out, and I will respond as soon as possible.",
+  "Contact.Btn": "Contact Me"
+}
